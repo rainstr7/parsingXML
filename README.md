@@ -1,7 +1,7 @@
 Тестовое задание
 Создайте страничку, которая будет брать URL из параметра XML,
 загружать с него XML и выдавать на странице следующую информацию о нем:
-Пример URL: https://localhost/litrestest.html?XML=/test.xml>
+Пример URL: https://ihahn.info/portfolio/portfolio16/index.html?XML=/test.xml
 
 1. Число внутренних ссылок (теги <a href="#id">);
 2. Суммарное число букв внутри тегов, не включая;
